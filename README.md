@@ -9,7 +9,7 @@ This comprehensive hotel web application, developed using the Laravel V8 framewo
 
 - **Room Availability Search**: Users can search for room availability based on check-in dates, number of guests and other preferences such as room type or amenities.
 - **Room Descriptions**: Detailed information about each available room type, including photos, amenities, bed sizes, and pricing.
-- **Room Reservation**: The ability to book rooms directly through the website by selecting check-in dates, number of rooms, and entering contact information.
+- **Room Reservation**: The ability to book rooms directly through the website by selecting check-in dates, number of rooms and entering contact information.
 - **Reservation Confirmation**: Users receive an email or confirmation message after successfully booking a room with details of their reservation.
 - **Cancellation and Reservation Changes**: Feature allowing users to cancel or modify their reservations, with appropriate cancellation policies.
 - **Payment Options**: Providing various convenient payment methods, such as credit cards, bank transfers, or cash payment upon arrival.
