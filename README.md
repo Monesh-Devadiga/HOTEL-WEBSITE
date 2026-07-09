@@ -12,7 +12,7 @@ This comprehensive hotel web application, developed using the Laravel V8 framewo
 - **Room Reservation**: The ability to book rooms directly through the website by selecting check-in dates, number of rooms and entering contact information.
 - **Reservation Confirmation**: Users receive an email or confirmation message after successfully booking a room with details of their reservation.
 - **Cancellation and Reservation Changes**: Feature allowing users to cancel or modify their reservations with appropriate cancellation policies.
-- **Payment Options**: Providing various convenient payment methods, such as credit cards, bank transfers, or cash payment upon arrival.
+- **Payment Options**: Providing various convenient payment methods, such as credit cards, bank transfers or cash payment upon arrival.
 - **Calendar Integration**: Users can add their reservation details to their digital calendars to keep track of their stay dates.
 
 ## Screenshoots
